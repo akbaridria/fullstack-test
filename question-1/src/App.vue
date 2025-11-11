@@ -10,7 +10,7 @@ import 'vue-sonner/style.css'
 <template>
   <ThemeProvider>
     <UserProfile />
-    <Toaster />
+    <Toaster position="top-center" />
   </ThemeProvider>
 </template>
 
